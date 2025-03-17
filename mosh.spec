@@ -2,7 +2,7 @@
 
 Name:		mosh
 Version:	1.4.0
-Release:	2
+Release:	3
 Source0:	https://github.com/mobile-shell/mosh/releases/download/mosh-%{version}/mosh-%{version}.tar.gz
 Summary:	Mobile shell that supports roaming and intelligent local echo
 URL:		https://github.com/mobile-shell/mosh
